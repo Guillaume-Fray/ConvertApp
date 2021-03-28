@@ -1,0 +1,369 @@
+{
+
+  "Area": [
+    {
+      "name": "Square Meter",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Square Kilometer",
+      "factor": 0.000001,
+      "constant": 0.0
+    },
+    {
+      "name": "Square inch",
+      "factor": 1550.0,
+      "constant": 0.0
+    },
+    {
+      "name": "Square foot",
+      "factor": 10.7639,
+      "constant": 0.0
+    },
+    {
+      "name": "Square yard",
+      "factor": 1.19599,
+      "constant": 0.0
+    },
+    {
+      "name": "Square mile",
+      "factor": 0.000000386102,
+      "constant": 0.0
+    },
+    {
+      "name": "Acre",
+      "factor": 0.000247105,
+      "constant": 0.0
+    },
+    {
+      "name": "Hectare",
+      "factor": 0.0001,
+      "constant": 0.0
+    }
+  ],
+
+  "Energy": [
+    {
+      "name": "Joule",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Electronvolt",
+      "factor": 0.000000000000000006242,
+      "constant": 0.0
+    },
+    {
+      "name": "Kilojoule",
+      "factor": 0.001,
+      "constant": 0.0
+    },
+    {
+      "name": "Gram calorie",
+      "factor": 0.239006,
+      "constant": 0.0
+    },
+    {
+      "name": "Kilocalorie (Cal)",
+      "factor": 0.000239006,
+      "constant": 0.0
+    },
+    {
+      "name": "Watt hour",
+      "factor": 0.000277778,
+      "constant": 0.0
+    },
+    {
+      "name": "Kilowatt hour",
+      "factor": 0.000000277778,
+      "constant": 0.0
+    }
+  ],
+
+  "Length": [
+    {
+      "name": "Meter",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Millimeter",
+      "factor": 1000.0,
+      "constant": 0.0
+    },
+    {
+      "name": "Centimeter",
+      "factor": 100.0,
+      "constant": 0.0
+    },
+    {
+      "name": "Kilometer",
+      "factor": 0.001,
+      "constant": 0.0
+    },
+    {
+      "name": "Inch",
+      "factor": 39.3701,
+      "constant": 0.0
+    },
+    {
+      "name": "Foot",
+      "factor": 3.28084,
+      "constant": 0.0
+    },
+    {
+      "name": "Yard",
+      "factor": 1.09361,
+      "constant": 0.0
+    },
+    {
+      "name": "Mile",
+      "factor": 0.000621371,
+      "constant": 0.0
+    },
+    {
+      "name": "Nautical mile",
+      "factor": 0.000539957,
+      "constant": 0.0
+    }
+  ],
+
+  "Mass": [
+    {
+      "name": "Kilogram",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Metric Ton",
+      "factor": 0.001,
+      "constant": 0.0
+    },
+    {
+      "name": "Gram",
+      "factor": 1000.0,
+      "constant": 0.0
+    },
+    {
+      "name": "Milligram",
+      "factor": 1000000.0,
+      "constant": 0.0
+    },
+    {
+      "name": "Ounce",
+      "factor": 35.274,
+      "constant": 0.0
+    },
+    {
+      "name": "Pound",
+      "factor": 2.20462,
+      "constant": 0.0
+    },
+    {
+      "name": "Stone",
+      "factor": 0.157473,
+      "constant": 0.0
+    },
+    {
+      "name": "US ton",
+      "factor": 0.00110231,
+      "constant": 0.0
+    }
+  ],
+
+  "Pressure": [
+    {
+      "name": "Pascal",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Atmosphere",
+      "factor": 0.0000098692,
+      "constant": 0.0
+    },
+    {
+      "name": "Bar",
+      "factor": 0.00001,
+      "constant": 0.0
+    }
+  ],
+
+  "Speed": [
+    {
+      "name": "Meter per second",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Kilometer per hour",
+      "factor": 3.6,
+      "constant": 0.0
+    },
+    {
+      "name": "Foot per second",
+      "factor": 3.28084,
+      "constant": 0.0
+    },
+    {
+      "name": "Mile per hour",
+      "factor": 2.23694,
+      "constant": 0.0
+    },
+    {
+      "name": "Knot",
+      "factor": 1.94384,
+      "constant": 0.0
+    }
+  ],
+
+  "Temperature": [
+    {
+      "name": "Celsius",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Farenheit",
+      "factor": 1.8,
+      "constant": 32.0
+    },
+    {
+      "name": "Kelvin",
+      "factor": 1.0,
+      "constant": 273.15
+    }
+  ],
+
+  "Time": [
+    {
+      "name": "Second",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Millisecond",
+      "factor": 1000.0,
+      "constant": 0.0
+    },
+    {
+      "name": "Minute",
+      "factor": 0.0166666666666667,
+      "constant": 0.0
+    },
+    {
+      "name": "Hour",
+      "factor": 0.0002777777777778,
+      "constant": 0.0
+    },
+    {
+      "name": "Day",
+      "factor": 0.00001157407407,
+      "constant": 0.0
+    },
+    {
+      "name": "Week",
+      "factor": 0.000001653439153,
+      "constant": 0.0
+    },
+    {
+      "name": "Year",
+      "factor": 0.0000000317098554,
+      "constant": 0.0
+    }
+  ],
+
+  "Volume": [
+    {
+      "name": "Cubic meter",
+      "factor": 1.0,
+      "constant": 0.0,
+      "base_unit": true
+    },
+    {
+      "name": "Litre",
+      "factor": 1000.0,
+      "constant": 0.0
+    },
+    {
+      "name": "US liquid gallon",
+      "factor": 264.172,
+      "constant": 0.0
+    },
+    {
+      "name": "US liquid quart",
+      "factor": 1056.69,
+      "constant": 0.0
+    },
+    {
+      "name": "US liquid pint",
+      "factor": 2113.38,
+      "constant": 0.0
+    },
+    {
+      "name": "US legal cup",
+      "factor": 4166.67,
+      "constant": 0.0
+    },
+    {
+      "name": "US fluid ounce",
+      "factor": 33814.0,
+      "constant": 0.0
+    },
+    {
+      "name": "US tablespoon",
+      "factor": 67628.0,
+      "constant": 0.0
+    },
+    {
+      "name": "US teaspoon",
+      "factor": 202884.0,
+      "constant": 0.0
+    },
+    {
+      "name": "Imperial gallon",
+      "factor": 219.969,
+      "constant": 0.0
+    },
+    {
+      "name": "Imperial quart",
+      "factor": 879.877,
+      "constant": 0.0
+    },
+    {
+      "name": "Imperial pint",
+      "factor": 1759.75,
+      "constant": 0.0
+    },
+    {
+      "name": "Imperial cup",
+      "factor": 3519.51,
+      "constant": 0.0
+    },
+    {
+      "name": "Imperial fluid ounce",
+      "factor": 35195.1,
+      "constant": 0.0
+    },
+    {
+      "name": "Imperial tablespoon",
+      "factor": 56312.13673,
+      "constant": 0.0
+    },
+    {
+      "name": "Imperial teaspoon",
+      "factor": 168936.41019,
+      "constant": 0.0
+    }
+  ]
+
+}
